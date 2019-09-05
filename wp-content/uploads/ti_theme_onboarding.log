@@ -1,0 +1,23 @@
+[28/Jul/2019:05:26:45] (ℹ️): WordPress Instance Info:
+[28/Jul/2019:05:26:45] (ℹ️): Home URL : https://automods.in
+[28/Jul/2019:05:26:45] (ℹ️): Site URL : https://automods.in
+[28/Jul/2019:05:26:45] (ℹ️): WordPress Version : 5.2.2
+[28/Jul/2019:05:26:45] (ℹ️): Onboarding Version : 1.6.1
+[28/Jul/2019:05:26:45] (ℹ️): Multisite : No
+[28/Jul/2019:05:26:45] (ℹ️): Server Info : Apache
+[28/Jul/2019:05:26:45] (ℹ️): PHP Version : 7.1.30
+[28/Jul/2019:05:26:45] (ℹ️): HTTPS : Yes
+[28/Jul/2019:05:26:45] (ℹ️): PHP Max Execution Time : 30
+[28/Jul/2019:05:26:45] (ℹ️): PHP Max Input Vars : 1000
+[28/Jul/2019:05:26:45] (ℹ️): Max Upload Size : 15728640
+[28/Jul/2019:05:26:45] (ℹ️): Plugins:
+[28/Jul/2019:05:26:45] (ℹ️): [PLUGIN] All-in-One WP Migration : v6.77 (ServMask)
+[28/Jul/2019:05:26:45] (ℹ️): [PLUGIN] Elementor : v2.6.6 (Elementor.com)
+[28/Jul/2019:05:26:45] (ℹ️): [PLUGIN] Jetpack by WordPress.com : v7.5.3 (Automattic)
+[28/Jul/2019:05:26:45] (ℹ️): [PLUGIN] PageLayer : v0.9.6 (Pagelayer Team)
+[28/Jul/2019:05:26:45] (ℹ️): [PLUGIN] Really Simple SSL : v3.2.3 (Rogier Lankhorst, Mark Wolters)
+[28/Jul/2019:05:26:45] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.8.4 (Themeisle)
+[28/Jul/2019:05:26:45] (ℹ️): [PLUGIN] WooCommerce PayPal Checkout Gateway : v1.6.16 (WooCommerce)
+[28/Jul/2019:05:26:45] (ℹ️): [PLUGIN] WooCommerce Services : v1.21.0 (Automattic)
+[28/Jul/2019:05:26:45] (ℹ️): [PLUGIN] WooCommerce : v3.6.5 (Automattic)
+[28/Jul/2019:05:26:45] (ℹ️): [PLUGIN] Yoast SEO : v11.7 (Team Yoast)
